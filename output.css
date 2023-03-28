@@ -859,6 +859,10 @@ body {
   background-image: url('./img/hero-cover.jpg');
 }
 
+.bg-\[url\(\'https\:\/\/github\.com\/markBarretto123\/Physionics\/blob\/main\/dist\/img\/hero-cover\.jpg\?raw\=true\'\)\] {
+  background-image: url('https://github.com/markBarretto123/Physionics/blob/main/dist/img/hero-cover.jpg?raw=true');
+}
+
 .bg-cover {
   background-size: cover;
 }
